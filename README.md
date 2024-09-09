@@ -14,4 +14,4 @@ When completed, the simulation will be:
 ![](Images/Four_bars_Animation.gif)
 
 Online Lecture:
-[![https://www.youtube.com/watch?v=doeiba87jDk](https://www.youtube.com/watch?v=doeiba87jDk)](https://www.youtube.com/watch?v=doeiba87jDk)
+[![](https://img.youtube.com/vi/doeiba87jDk/0.jpg)](https://www.youtube.com/watch?v=doeiba87jDk)
