@@ -12,3 +12,6 @@ The goal of the exercise is to:
 
 When completed, the simulation will be:
 ![](Images/Four_bars_Animation.gif)
+
+Online Lecture:
+[![https://www.youtube.com/watch?v=doeiba87jDk](https://www.youtube.com/watch?v=doeiba87jDk)](https://www.youtube.com/watch?v=doeiba87jDk)
